@@ -6,7 +6,7 @@ activity over time — a lightweight approach inspired by real-world
 coastal monitoring techniques used to flag potentially hazardous areas 
 (e.g., rip currents).
 
-![Sample Output](sample_output.gif)
+![Sample Output](https://github.com/Esraa-MOhamed7/ocean-wave-energy-mapper/blob/main/sample_output.gif)
 
 ## How It Works
 
